@@ -1,0 +1,32 @@
+body{
+    font-size:19px; 
+}
+.titleStyle{
+    font-size:40px; 
+    text-align:center;
+    color:grey;
+    
+}
+.main{
+    width: 1200px;
+    border:1px solid #ccc;
+    margin: 10px auto;
+}
+input{
+    display:block;
+    padding:5px 5px;
+   
+}
+span{
+    display:block;
+    margin-top:-20px;
+    margin-left:25px 
+}
+.btnStyle{
+    width:400px;
+    margin: 40px auto;
+    background:blue;
+    color:green;
+    font-size:25px;
+    font-weight:bold; 
+}
